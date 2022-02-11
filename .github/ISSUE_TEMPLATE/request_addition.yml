@@ -1,0 +1,60 @@
+name: Request an Addition
+description: Request for a tool/application to be added to the list
+labels: [issue-report]
+
+body:
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+        label: Submission checklist
+        description:
+        options:
+            - label: This item is not on the list
+              required: true
+            - label: An issue does not exist for this item (open or closed)
+              required: true
+
+  - type: input
+    id: name
+    validations: 
+      required: true
+    attributes:
+        label: 
+        description: |
+            Name of the tool/application.
+        placeholder: |
+            Supibot
+
+  - type: input
+    id: link
+    validations: 
+      required: true
+    attributes:
+        label: 
+        description: |
+            Provide a link to the tool (website or source code repo).
+        placeholder: |
+            https://example.com/some-tool
+
+  - type: input
+    id: category
+    validations: 
+      required: true
+    attributes:
+        label: 
+        description: |
+            What category does this tool belong to (see the list's categories or suggest a new one).
+        placeholder: |
+            Chat bot
+
+  - type: textarea
+    id: description
+    validations:
+        required: true
+    attributes:
+        label: 
+        description: |
+            Write a brief description of the tool.
+        placeholder: |
+            A multi-platform novelty & utility chat bot.
+
