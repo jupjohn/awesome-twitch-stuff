@@ -19,7 +19,7 @@ body:
     validations: 
       required: true
     attributes:
-        label: 
+        label: Tool name
         description: |
             Name of the tool/application.
         placeholder: |
@@ -30,7 +30,7 @@ body:
     validations: 
       required: true
     attributes:
-        label: 
+        label: Website/repository URL
         description: |
             Provide a link to the tool (website or source code repo).
         placeholder: |
@@ -41,7 +41,7 @@ body:
     validations: 
       required: true
     attributes:
-        label: 
+        label: Category
         description: |
             What category does this tool belong to (see the list's categories or suggest a new one).
         placeholder: |
@@ -52,7 +52,7 @@ body:
     validations:
         required: true
     attributes:
-        label: 
+        label: Description
         description: |
             Write a brief description of the tool.
         placeholder: |
