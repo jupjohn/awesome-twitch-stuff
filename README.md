@@ -46,6 +46,7 @@ A list of awesome Twitch/streaming-related tools
 ### Overlays
 
  - [jChat](https://www.giambaj.it/twitch/jchat/) - a customizable chat overlay supporting 7TV, BetterTTV, & FFZ emotes
+ - [NowPlaying](https://widget.nowplaying.site/) - show your currently playing song by connecting your StreamElements & Spotify accounts
 
 ### Voting/Polling
 
