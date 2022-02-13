@@ -20,7 +20,7 @@ A list of awesome Twitch/streaming-related tools
 
 ### Broadcasting Tools
 
-
+ - [vdo.ninja](https://vdo.ninja) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software
 
 ### Chat Bots
 
