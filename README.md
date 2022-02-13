@@ -36,6 +36,7 @@ A list of awesome Twitch/streaming-related tools
 
  - [BetterTTV](https://betterttv.com) - 3rd party emote service with support for animated emotes
  - [FrankerFaceZ](https://frankerfacez.com) - 3rd party emote service featuring wide emotes
+ - [7TV](https://7tv.app) - a new 3rd party emote service and extension for Twitch and YouTube
 
 ### Music Sharing
 
