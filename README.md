@@ -19,7 +19,7 @@ A list of awesome Twitch/streaming-related tools
 
 ### Chat Bots
 
-
+ - [Fossabot](https://fossabot.com) - a Twitch chat bot that has all the features you need to create the ultimate chat experience for yourself and your audience
 
 ### Command Integrations
 
