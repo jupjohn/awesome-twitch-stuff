@@ -40,8 +40,8 @@ A list of awesome Twitch/streaming-related tools
 
 ### Music Sharing
 
- - [Pubby](https://pubby.club) - TODO:
- - [QueUp](https://queup.net) - TODO:
+ - [Pubby](https://pubby.club) - a plug.dj-inspired room-based DJ service supporting Soundcloud, YouTube, and Vimeo media
+ - [QueUp](https://queup.net) - a social DJ site where users can share and discover the music by tuning in to user-generated playlists (formerly Dubtrack)
 
 ### Overlays
 
