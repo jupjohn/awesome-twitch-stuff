@@ -50,5 +50,5 @@ A list of awesome Twitch/streaming-related tools
 
 ### Voting/Polling
 
-
+ - [chat.vote](https://chat.vote) - create twitch chat polls and vote through chat commands easily and quickly using chat.vote 
 
