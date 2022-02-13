@@ -2,15 +2,15 @@
 A list of awesome Twitch/streaming-related tools
 
 ## Categories
- - Broadcasting Tools
- - Chat Applications
- - Chat Bots
- - Command Integrations
- - Emote Tools
- - Emotes
- - Music Sharing
- - Overlays
- - Voting/Polling
+ - [Broadcasting Tools](#broadcasting-tools)
+ - [Chat Applications](#chat-applications)
+ - [Chat Bots](#chat-bots)
+ - [Command Integrations](#command-integrations)
+ - [Emote Tools](#emote-tools)
+ - [Emotes](#emotes)
+ - [Music Sharing](#music-sharing)
+ - [Overlays](#overlays)
+ - [Voting/Polling](#votingpolling)
 
 ### Chat Applications
 
