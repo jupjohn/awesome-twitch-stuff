@@ -30,7 +30,7 @@ A list of awesome Twitch/streaming-related tools
 
 ### Emote Tools
 
-
+ - [Levi506's Emote Tester](https://levi506.net/emote-tester) - test emotes for scaling/contrast issues before they're uploaded
 
 ### Emotes
 
