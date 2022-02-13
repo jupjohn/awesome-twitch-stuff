@@ -26,7 +26,7 @@ A list of awesome Twitch/streaming-related tools
 
 ### Command Integrations
 
-
+ - [Groke.se](https://groke.se/twitch/spotify) - allows retrieval of the currently playing Spotify song by most chat bots via account linking
 
 ### Emote Tools
 
