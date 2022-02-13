@@ -34,7 +34,7 @@ A list of awesome Twitch/streaming-related tools
 
 ### Emotes
 
-
+ - [BetterTTV](https://betterttv.com) - 3rd party emote service with support for animated emotes
 
 ### Music Sharing
 
