@@ -40,7 +40,7 @@ A list of awesome Twitch/streaming-related tools
 
 ### Music Sharing
 
-
+ - [Pubby](https://pubby.club) - TODO:
 
 ### Overlays
 
