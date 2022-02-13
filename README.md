@@ -21,6 +21,7 @@ A list of awesome Twitch/streaming-related tools
 
  - [Fossabot](https://fossabot.com) - a Twitch chat bot that has all the features you need to create the ultimate chat experience for yourself and your audience
  - [NightBot](https://nightbot.tv) - a chat bot for Twitch, YouTube, and Trovo that allows you to automate your live stream's chat with moderation and new features, allowing you to spend more time entertaining your viewers
+ - [StreamElements](https://streamelements.com) - the official chat bot for the StreamElements service
 
 ### Command Integrations
 
