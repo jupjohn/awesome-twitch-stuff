@@ -41,6 +41,7 @@ A list of awesome Twitch/streaming-related tools
 ### Emote Tools
 
  - [Levi506's Emote Tester](https://levi506.net/emote-tester) - test emotes for scaling/contrast issues before they're uploaded
+ - [tma02's Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/) - resize emotes & badges to suit 1x, 2x, and 3x sizes
 
 ### Emotes
 
