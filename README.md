@@ -4,6 +4,7 @@ A list of awesome Twitch/streaming-related tools
 ## Categories
  - [Broadcasting Tools](#broadcasting-tools)
  - [Chat Applications](#chat-applications)
+ - [Channel Management](#channel-management)
  - [Chat Bots](#chat-bots)
  - [Command Integrations](#command-integrations)
  - [Emote Tools](#emote-tools)
@@ -21,6 +22,9 @@ A list of awesome Twitch/streaming-related tools
 ### Broadcasting Tools
 
  - [vdo.ninja](https://vdo.ninja) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software
+
+### Channel Management
+
 
 ### Chat Bots
 
