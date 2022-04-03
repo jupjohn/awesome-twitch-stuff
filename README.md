@@ -25,6 +25,7 @@ A list of awesome Twitch/streaming-related tools
 
 ### Channel Management
 
+ - [CommanderRoot's Twitch Tools](https://twitch-tools.rootonline.de) - mass block, ban, get lists of subscribers, and other misc tools
 
 ### Chat Bots
 
