@@ -12,6 +12,7 @@ A list of awesome Twitch/streaming-related tools.
 
  - [7TV](https://7tv.app) - A new 3rd party emote service and extension for Twitch and YouTube. [🌎🆓]
  - [BadgeBase](https://badgebase.co/) - Chat Badges and Emotes tracker. [🆓]
+ - [BetterStreams](https://betterstreams.tv) - Stream automation that connects channel point redeems, subs, raids, and 16 other triggers to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling and redemption analytics. [🆓/💸]
  - [BetterTTV](https://betterttv.com) - 3rd party emote service with support for animated emotes. [🆓]
  - [Chat Vault](https://chatvau.lt/) - Discover emotes, badges, and channels from Twitch, YouTube, Kick, and popular third-party extensions in one organized place. [🆓]
  - [Chatsen](https://github.com/chatsen/chatsen/#chatsen) - Chatsen is a cross-platform application (iOS & Android) that allows you to chat on Twitch with support for 3rd-party services such as 7TV, BTTV and FFZ. [🌎🆓]
