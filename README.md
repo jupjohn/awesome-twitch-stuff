@@ -61,4 +61,5 @@ A list of awesome Twitch/streaming-related tools.
  - [jChat](https://www.giambaj.it/twitch/jchat/) - Customizable chat overlay supporting 7TV, BetterTTV, & FFZ emotes. [🌎🆓]
  - [peepoStream](https://peepostream.com/) - Your one-stop shop for everything viewer engagement. [🌎🆓]
  - [petpet generator](https://benisland.neocities.org/petpet/) - Generate a petting emote using your uploaded image. [🆓]
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds highlights in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels.
  - [vdo.ninja](https://vdo.ninja) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software. [🆓]
