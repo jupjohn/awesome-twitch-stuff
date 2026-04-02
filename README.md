@@ -15,6 +15,7 @@ A list of awesome Twitch/streaming-related tools.
  - [BetterStreams](https://betterstreams.tv) - Stream automation that connects channel point redeems, subs, raids, and 16 other triggers to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling and redemption analytics. [🆓/💸]
  - [BetterTTV](https://betterttv.com) - 3rd party emote service with support for animated emotes. [🆓]
  - [Chat Vault](https://chatvau.lt/) - Discover emotes, badges, and channels from Twitch, YouTube, Kick, and popular third-party extensions in one organized place. [🆓]
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool that automatically finds the best moments in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels. Perfect for streamers, podcasters, and YouTubers. [💸]
  - [Chatsen](https://github.com/chatsen/chatsen/#chatsen) - Chatsen is a cross-platform application (iOS & Android) that allows you to chat on Twitch with support for 3rd-party services such as 7TV, BTTV and FFZ. [🌎🆓]
  - [Chatterino 7TV](https://github.com/SevenTV/chatterino7) - Chatterino with extra 7TV features. [🌎]
  - [Chatterino](https://chatterino.com) - A mutli-platform Twitch chat client. [🌎]
@@ -61,5 +62,4 @@ A list of awesome Twitch/streaming-related tools.
  - [jChat](https://www.giambaj.it/twitch/jchat/) - Customizable chat overlay supporting 7TV, BetterTTV, & FFZ emotes. [🌎🆓]
  - [peepoStream](https://peepostream.com/) - Your one-stop shop for everything viewer engagement. [🌎🆓]
  - [petpet generator](https://benisland.neocities.org/petpet/) - Generate a petting emote using your uploaded image. [🆓]
-- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds highlights in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels.
  - [vdo.ninja](https://vdo.ninja) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software. [🆓]
