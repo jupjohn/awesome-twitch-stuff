@@ -25,6 +25,7 @@ A list of awesome Twitch/streaming-related tools.
  - [DecAPI](https://decapi.me/) - API provider/proxy that provides plaintext responses. [🌎🆓]
  - [Emote Tester](https://emotetester.gempir.com/) - Test your emotes in fake chat rooms before uploading. [🌎🆓]
  - [EmoteDisplay](https://github.com/instafluff/EmoteDisplay#emotedisplay) - Display the latest Twitch Chat Emote on stream! [🌎🆓]
+ - [EmoteResizer](https://emoteresizer.net) - Free toolkit for streamers: resize emotes, sub/bit badges and stickers to exact Twitch, Discord, Kick, Slack, 7TV and YouTube sizes (animated GIFs supported), plus Twitch Bits and subscription revenue calculators. Browser-based, no signup. [🆓]
  - [Fossabot](https://fossabot.com) - A Twitch chat bot that has all the features you need to create the ultimate chat experience for yourself and your audience. [🆓]
  - [FrankerFaceZ](https://frankerfacez.com) - 3rd party emote service featuring wide emotes. [🆓]
  - [Frosty](https://www.frostyapp.io/) - Frosty lets you watch Twitch with 7TV, BTTV, and FFZ emotes (on iOS & Android). [🌎🆓]
