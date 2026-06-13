@@ -42,6 +42,7 @@ A list of awesome Twitch/streaming-related tools.
  - [Pubby](https://pubby.club) - Plug.dj-inspired room-based DJ service supporting Soundcloud, YouTube, and Vimeo media. [🆓]
  - [QueUp](https://queup.net) - Social DJ site where users can share and discover the music by tuning in to user-generated playlists (formerly Dubtrack). [🆓]
  - [Rewards](https://rewards.nerixyz.de/) - An application that manages custom Twitch rewards. [🌎🆓]
+ - [StreamCondor](https://github.com/tarzasai/StreamCondor) - A lightweight system-tray app that monitors livestreams and opens them with Streamlink. [🆓]
  - [StreamElements](https://streamelements.com) - The ultimate streamer platform. [🆓/💸]
  - [StreamLabs](https://streamlabs.com/) - All-in-one suite for live streamers. [🆓/💸]
  - [Supibot](https://supinic.com) - Multiplatform, utility & novelty chat bot. [🆓]
