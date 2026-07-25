@@ -43,6 +43,7 @@ A list of awesome Twitch/streaming-related tools.
  - [QueUp](https://queup.net) - Social DJ site where users can share and discover the music by tuning in to user-generated playlists (formerly Dubtrack). [🆓]
  - [Rewards](https://rewards.nerixyz.de/) - An application that manages custom Twitch rewards. [🌎🆓]
  - [StreamElements](https://streamelements.com) - The ultimate streamer platform. [🆓/💸]
+ - [StreamerSize](https://streamersize.com) - Free calculator for streaming bitrate, video file size, upload time and storage. Supports Twitch, YouTube, Kick and OBS. [🆓]
  - [StreamLabs](https://streamlabs.com/) - All-in-one suite for live streamers. [🆓/💸]
  - [Supibot](https://supinic.com) - Multiplatform, utility & novelty chat bot. [🆓]
  - [Tenami](https://tenami.tv/) - Rent your favorite TV shows and movies for livestreams on YouTube and Twitch. [💸]
