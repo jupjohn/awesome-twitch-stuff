@@ -34,6 +34,7 @@ A list of awesome Twitch/streaming-related tools.
  - [Levi506's Emote Tester](https://levi506.net/emote-tester) - Test emotes for scaling/contrast issues before they're uploaded. [🆓]
  - [MakeEmoji](https://makeemoji.com/) - The #1 Free Online Emoji Maker for Custom Animated Emojis. [🆓]
  - [NightBot](https://nightbot.tv) - A chat bot for Twitch, YouTube, and Trovo that allows you to automate your live stream's chat with moderation and new features, allowing you to spend more time entertaining your viewers. [🆓]
+ - [NoSub](https://nosubapp.com) - Watch Twitch and Kick VODs, including sub-only replays the platforms still serve, with the original chat replayed in sync. Also creates clips and reveals the raw stream link. [🆓]
  - [NowPlaying](https://widget.nowplaying.site/) - Show your currently playing song by connecting your StreamElements & Spotify accounts. [🆓]
  - [OBS Stats on Stream](https://obsproject.com/forum/resources/obs-stats-on-stream.1319/) - An OBS script to show OBS stats on stream as Text Source and/or print in chat.. [🌎🆓]
  - [OBS/Twitch Animal GIF Overlay](https://github.com/stphnnnn/obs-twitch-chat-animal-gif-overlay) - Displays a cat or dog GIF in an OBS browser source when a user types the command `!dogpls` or `!catpls`. [🌎🆓]
