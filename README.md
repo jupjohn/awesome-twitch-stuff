@@ -11,6 +11,7 @@ A list of awesome Twitch/streaming-related tools.
 ## Ungrouped list (will sort)
 
  - [7TV](https://7tv.app) - A new 3rd party emote service and extension for Twitch and YouTube. [🌎🆓]
+ - [AlertForge](https://alertforge.ai) - AI stream overlay and alert generator. Describe a theme and get animated Starting Soon/BRB scenes, alert videos with sound, Twitch panels and a transparent cam frame, exported as alpha-channel WebM for OBS. [💸]
  - [BadgeBase](https://badgebase.co/) - Chat Badges and Emotes tracker. [🆓]
  - [BetterStreams](https://betterstreams.tv) - Stream automation that connects channel point redeems, subs, raids, and 16 other triggers to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling and redemption analytics. [🆓/💸]
  - [BetterTTV](https://betterttv.com) - 3rd party emote service with support for animated emotes. [🆓]
