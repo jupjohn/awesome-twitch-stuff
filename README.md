@@ -23,6 +23,7 @@ A list of awesome Twitch/streaming-related tools.
  - [Cord.DJ](https://cord.dj/) - Listen to music with friends together. [🆓]
  - [DankChat](https://github.com/flex3r/DankChat/#-dankchat) - A chat client for Android. [🌎🆓]
  - [DecAPI](https://decapi.me/) - API provider/proxy that provides plaintext responses. [🌎🆓]
+ - [Emote Resizer](https://emoteresize.com) - Turns one image into every Twitch emote, sub badge, Discord emoji/sticker, 7TV/BTTV/FFZ and Slack size. Animated GIF support, batch input, auto-compression, fully client-side with no upload. [🆓]
  - [Emote Tester](https://emotetester.gempir.com/) - Test your emotes in fake chat rooms before uploading. [🌎🆓]
  - [EmoteDisplay](https://github.com/instafluff/EmoteDisplay#emotedisplay) - Display the latest Twitch Chat Emote on stream! [🌎🆓]
  - [Fossabot](https://fossabot.com) - A Twitch chat bot that has all the features you need to create the ultimate chat experience for yourself and your audience. [🆓]
