@@ -61,4 +61,5 @@ A list of awesome Twitch/streaming-related tools.
  - [jChat](https://www.giambaj.it/twitch/jchat/) - Customizable chat overlay supporting 7TV, BetterTTV, & FFZ emotes. [🌎🆓]
  - [peepoStream](https://peepostream.com/) - Your one-stop shop for everything viewer engagement. [🌎🆓]
  - [petpet generator](https://benisland.neocities.org/petpet/) - Generate a petting emote using your uploaded image. [🆓]
+ - [PickerSpin](https://pickerspin.co) - Free wheel spinner, dice roller and bingo caller for picking giveaway winners live, with a public page to verify the draw was fair. [🆓]
  - [vdo.ninja](https://vdo.ninja) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software. [🆓]
