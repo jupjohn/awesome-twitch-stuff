@@ -29,6 +29,7 @@ A list of awesome Twitch/streaming-related tools.
  - [FrankerFaceZ](https://frankerfacez.com) - 3rd party emote service featuring wide emotes. [🆓]
  - [Frosty](https://www.frostyapp.io/) - Frosty lets you watch Twitch with 7TV, BTTV, and FFZ emotes (on iOS & Android). [🌎🆓]
  - [Groke.se](https://groke.se/twitch/spotify) - Allows retrieval of the currently playing Spotify song by most chat bots via account linking. [🆓]
+ - [HeatSync](https://heatsync.org) - Twitch, Kick and YouTube chat in one panel with your own emotes in any channel. Browser extension, web app and terminal client. [🌎🆓]
  - [Kruiz Control](https://github.com/Kruiser8/Kruiz-Control#kruiz-control) - Kruiz Control enables a pseudo code approach to manage and automatically handle Twitch chat and events, OBS or SLOBS, and StreamElements or Streamlabs alerts. [🌎]
  - [Kudo Pepega](https://teclu.github.io/Kudo-Pepega/) - A Group Card Alternative. Free of charge; no pesky catches. [🌎🆓]
  - [Levi506's Emote Tester](https://levi506.net/emote-tester) - Test emotes for scaling/contrast issues before they're uploaded. [🆓]
