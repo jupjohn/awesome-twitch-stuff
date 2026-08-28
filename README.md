@@ -62,3 +62,4 @@ A list of awesome Twitch/streaming-related tools.
  - [peepoStream](https://peepostream.com/) - Your one-stop shop for everything viewer engagement. [🌎🆓]
  - [petpet generator](https://benisland.neocities.org/petpet/) - Generate a petting emote using your uploaded image. [🆓]
  - [vdo.ninja](https://vdo.ninja) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software. [🆓]
+ - [Voding](https://vod.ing) - Browser-based Twitch VoD editor with chat-activity highlight finding, chat overlay rendering and FCPXML export. [🆓/💸]
