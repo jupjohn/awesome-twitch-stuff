@@ -19,6 +19,7 @@ A list of awesome Twitch/streaming-related tools.
  - [Chatterino 7TV](https://github.com/SevenTV/chatterino7) - Chatterino with extra 7TV features. [🌎]
  - [Chatterino](https://chatterino.com) - A mutli-platform Twitch chat client. [🌎]
  - [Chatty](https://chatty.github.io) - A chat software specifically made for Twitch, running on any OS supporting Java 8 or later. [🌎]
+ - [Clips Kitty](https://colingpt9.github.io/clips-studio/) - Turns Twitch, YouTube and Kick VODs into captioned 9:16 clips on your own PC, keeping the active speaker centred. No uploads, no subscription. [🌎🆓]
  - [Collaborative Overlay](https://luscious.dev/overlay/) - Collaborative Overlays are a tool for live streamers to give some control over their stream to trusted individuals. [🆓]
  - [Cord.DJ](https://cord.dj/) - Listen to music with friends together. [🆓]
  - [DankChat](https://github.com/flex3r/DankChat/#-dankchat) - A chat client for Android. [🌎🆓]
