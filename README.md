@@ -41,6 +41,7 @@ A list of awesome Twitch/streaming-related tools.
  - [Pogly](https://pogly.gg/) - Real-time collaborative stream overlay powered by SpacetimeDB. [🌎]
  - [Pubby](https://pubby.club) - Plug.dj-inspired room-based DJ service supporting Soundcloud, YouTube, and Vimeo media. [🆓]
  - [QueUp](https://queup.net) - Social DJ site where users can share and discover the music by tuning in to user-generated playlists (formerly Dubtrack). [🆓]
+ - [RaidPort](https://raidport.tv/?utm_source=github&utm_medium=referral&utm_campaign=building&utm_content=awesome-twitch-stuff) - A Twitch channel built as a live gameshow for raids, for small streamers. Raid in at the end of your stream to play; the channel raids the winner. Opens fall 2026. [🆓]
  - [Rewards](https://rewards.nerixyz.de/) - An application that manages custom Twitch rewards. [🌎🆓]
  - [StreamElements](https://streamelements.com) - The ultimate streamer platform. [🆓/💸]
  - [StreamLabs](https://streamlabs.com/) - All-in-one suite for live streamers. [🆓/💸]
