@@ -11,6 +11,7 @@ A list of awesome Twitch/streaming-related tools.
 ## Ungrouped list (will sort)
 
  - [7TV](https://7tv.app) - A new 3rd party emote service and extension for Twitch and YouTube. [🌎🆓]
+ - [Ambiant Pixel Stream Packs](https://ambiantpixel-lab.github.io/obs-stream-background-pixel-art/) - Animated pixel art OBS scenes (Starting Soon, BRB, Ending, Just Chatting) as video loops and a live browser source with your own title. [💸]
  - [BadgeBase](https://badgebase.co/) - Chat Badges and Emotes tracker. [🆓]
  - [BetterStreams](https://betterstreams.tv) - Stream automation that connects channel point redeems, subs, raids, and 16 other triggers to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling and redemption analytics. [🆓/💸]
  - [BetterTTV](https://betterttv.com) - 3rd party emote service with support for animated emotes. [🆓]
