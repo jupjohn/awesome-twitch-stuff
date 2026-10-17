@@ -49,6 +49,7 @@ A list of awesome Twitch/streaming-related tools.
  - [That Horse Game](https://luscious.dev/overlay/horse) - A horse game overlay [🆓]
  - [ThePositiveBot](https://roaringiron.com/thepositivebot/) - A Twitch.tv Chatbot, packed with hours of fun and entertaining features to improve the offline chatting experience. [🆓]
  - [Titlechange\_bot](https://www.twitch.tv/titlechange_bot/about) - Chatbot mentioning people whenever streamer goes live/offline or changes title/game. [🌎🆓]
+ - [Tramevia Dock](https://github.com/Tramevia/Tramevia-Dock) - OBS docks and overlays for Twitch, Kick, YouTube and TikTok together: one chat, one event feed, stream info for every channel, alerts in ten animated styles and a viewer counter. [🌎🆓]
  - [Twichat](https://twitchat.fr/) - Alternative Twitch chat for streamers with lots of extra features for enhanced streaming comfort [🌎🆓]
  - [Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/) - Quick and easy way to resize images to Twitch emote and badge sizes online with your browser. [🌎🆓]
  - [Twitch Emote Spray](https://github.com/andrej-ilic/twitch-emote-spray) - Twitch Emote Spray is a twitch overlay that displays emotes posted in chat. [🌎🆓]
