@@ -44,6 +44,7 @@ A list of awesome Twitch/streaming-related tools.
  - [Rewards](https://rewards.nerixyz.de/) - An application that manages custom Twitch rewards. [🌎🆓]
  - [StreamElements](https://streamelements.com) - The ultimate streamer platform. [🆓/💸]
  - [StreamLabs](https://streamlabs.com/) - All-in-one suite for live streamers. [🆓/💸]
+ - [Streamable](https://streamable.run/?utm_source=github&utm_medium=awesome-list&utm_campaign=jupjohn-awesome-twitch-stuff) - Cloud-hosted OBS you control from a browser, with stream drop protection for IRL streams from a phone or backpack. [💸]
  - [Supibot](https://supinic.com) - Multiplatform, utility & novelty chat bot. [🆓]
  - [Tenami](https://tenami.tv/) - Rent your favorite TV shows and movies for livestreams on YouTube and Twitch. [💸]
  - [That Horse Game](https://luscious.dev/overlay/horse) - A horse game overlay [🆓]
