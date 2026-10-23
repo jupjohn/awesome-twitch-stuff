@@ -28,6 +28,7 @@ A list of awesome Twitch/streaming-related tools.
  - [Fossabot](https://fossabot.com) - A Twitch chat bot that has all the features you need to create the ultimate chat experience for yourself and your audience. [🆓]
  - [FrankerFaceZ](https://frankerfacez.com) - 3rd party emote service featuring wide emotes. [🆓]
  - [Frosty](https://www.frostyapp.io/) - Frosty lets you watch Twitch with 7TV, BTTV, and FFZ emotes (on iOS & Android). [🌎🆓]
+ - [Fut Overlay](https://futoverlay.com) - Browser-source football (soccer) overlay for OBS with live scoreboards, lineups, stats and match events. Free trial, paid plans. [🆓/💸]
  - [Groke.se](https://groke.se/twitch/spotify) - Allows retrieval of the currently playing Spotify song by most chat bots via account linking. [🆓]
  - [Kruiz Control](https://github.com/Kruiser8/Kruiz-Control#kruiz-control) - Kruiz Control enables a pseudo code approach to manage and automatically handle Twitch chat and events, OBS or SLOBS, and StreamElements or Streamlabs alerts. [🌎]
  - [Kudo Pepega](https://teclu.github.io/Kudo-Pepega/) - A Group Card Alternative. Free of charge; no pesky catches. [🌎🆓]
