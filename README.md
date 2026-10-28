@@ -20,6 +20,7 @@ A list of awesome Twitch/streaming-related tools.
  - [Chatterino](https://chatterino.com) - A mutli-platform Twitch chat client. [🌎]
  - [Chatty](https://chatty.github.io) - A chat software specifically made for Twitch, running on any OS supporting Java 8 or later. [🌎]
  - [Collaborative Overlay](https://luscious.dev/overlay/) - Collaborative Overlays are a tool for live streamers to give some control over their stream to trusted individuals. [🆓]
+ - [Composi Chat](https://chromewebstore.google.com/detail/composi-chat/mbbcmagdpiccgebggnkhpiledgodffbh) - A browser side panel that merges Twitch, Kick and TikTok live chat, with 7TV, BTTV and FFZ emotes. For Chrome and [Firefox](https://addons.mozilla.org/firefox/addon/composi-chat/), no account needed. [🆓]
  - [Cord.DJ](https://cord.dj/) - Listen to music with friends together. [🆓]
  - [DankChat](https://github.com/flex3r/DankChat/#-dankchat) - A chat client for Android. [🌎🆓]
  - [DecAPI](https://decapi.me/) - API provider/proxy that provides plaintext responses. [🌎🆓]
