@@ -33,6 +33,7 @@ A list of awesome Twitch/streaming-related tools.
  - [Kudo Pepega](https://teclu.github.io/Kudo-Pepega/) - A Group Card Alternative. Free of charge; no pesky catches. [🌎🆓]
  - [Levi506's Emote Tester](https://levi506.net/emote-tester) - Test emotes for scaling/contrast issues before they're uploaded. [🆓]
  - [MakeEmoji](https://makeemoji.com/) - The #1 Free Online Emoji Maker for Custom Animated Emojis. [🆓]
+ - [MakerGIF Emote Optimizer](https://makergif.com/gif-maker-for-discord) - Free browser-local animated GIF and 32-bit APNG emote resizer, <256KB compressor, and motion preset tool for Twitch, Discord, and Slack. [🆓]
  - [NightBot](https://nightbot.tv) - A chat bot for Twitch, YouTube, and Trovo that allows you to automate your live stream's chat with moderation and new features, allowing you to spend more time entertaining your viewers. [🆓]
  - [NowPlaying](https://widget.nowplaying.site/) - Show your currently playing song by connecting your StreamElements & Spotify accounts. [🆓]
  - [OBS Stats on Stream](https://obsproject.com/forum/resources/obs-stats-on-stream.1319/) - An OBS script to show OBS stats on stream as Text Source and/or print in chat.. [🌎🆓]
