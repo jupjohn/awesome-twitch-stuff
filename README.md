@@ -38,6 +38,7 @@ A list of awesome Twitch/streaming-related tools.
  - [OBS Stats on Stream](https://obsproject.com/forum/resources/obs-stats-on-stream.1319/) - An OBS script to show OBS stats on stream as Text Source and/or print in chat.. [🌎🆓]
  - [OBS/Twitch Animal GIF Overlay](https://github.com/stphnnnn/obs-twitch-chat-animal-gif-overlay) - Displays a cat or dog GIF in an OBS browser source when a user types the command `!dogpls` or `!catpls`. [🌎🆓]
  - [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming. [🌎🆓]
+ - [OverlayCast](https://overlaycast.com/) - Hosted OBS browser-source widgets (chat, alerts, goals, timers, polls) customised in the browser; edits reach the live overlay on their own. [🆓💸]
  - [Pogly](https://pogly.gg/) - Real-time collaborative stream overlay powered by SpacetimeDB. [🌎]
  - [Pubby](https://pubby.club) - Plug.dj-inspired room-based DJ service supporting Soundcloud, YouTube, and Vimeo media. [🆓]
  - [QueUp](https://queup.net) - Social DJ site where users can share and discover the music by tuning in to user-generated playlists (formerly Dubtrack). [🆓]
