@@ -23,6 +23,7 @@ A list of awesome Twitch/streaming-related tools.
  - [Cord.DJ](https://cord.dj/) - Listen to music with friends together. [🆓]
  - [DankChat](https://github.com/flex3r/DankChat/#-dankchat) - A chat client for Android. [🌎🆓]
  - [DecAPI](https://decapi.me/) - API provider/proxy that provides plaintext responses. [🌎🆓]
+ - [Emote Studio](https://twitchemotemaker.app/free-twitch-emotes) - Free static PNG and animated GIF Twitch emote packs with a 28 px light/dark chat preview and 28/56/112 px ZIP downloads, plus a browser-based emote resizer and optional AI emote generator. [🆓/💸]
  - [Emote Tester](https://emotetester.gempir.com/) - Test your emotes in fake chat rooms before uploading. [🌎🆓]
  - [EmoteDisplay](https://github.com/instafluff/EmoteDisplay#emotedisplay) - Display the latest Twitch Chat Emote on stream! [🌎🆓]
  - [Fossabot](https://fossabot.com) - A Twitch chat bot that has all the features you need to create the ultimate chat experience for yourself and your audience. [🆓]
